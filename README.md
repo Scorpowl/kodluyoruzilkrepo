@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz]() Front-End Eğitiminde oluşturduğumuz ilk repo. İçeris
 ## Installation
 Öncelikle projeyi clonlayın.
 ```
-git clone 
+git clone https://github.com/Scorpowl/WEB.git 
 ```
 
 ## Usage 
