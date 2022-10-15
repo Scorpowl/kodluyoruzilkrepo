@@ -21,4 +21,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License 
 [MIT]()
 
-![Projemden görüntü](C:\Users\furka\Desktop\Screenshot_1.png)
+![Projemden görüntü]
